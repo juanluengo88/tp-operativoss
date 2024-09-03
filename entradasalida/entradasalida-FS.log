@@ -1,0 +1,9 @@
+2024/07/25 18:19:09 [INFO]: Starting IO server on port: 8008
+2024/07/25 18:19:11 [INFO]: PID: <1> - Operacion: <IO_FS_CREATE>
+2024/07/25 18:19:11 [INFO]: PID: <1> - Crear Archivo: <salida.txt>
+2024/07/25 18:19:13 [INFO]: PID: <2> - Operacion: <IO_FS_CREATE>
+2024/07/25 18:19:13 [INFO]: PID: <2> - Crear Archivo: <archivo1.txt>
+2024/07/25 18:19:15 [INFO]: PID: <1> - Operacion: <IO_FS_CREATE>
+2024/07/25 18:19:15 [INFO]: PID: <1> - Crear Archivo: <cronologico.txt>
+2024/07/25 18:19:17 [INFO]: PID: <2> - Operacion: <IO_FS_CREATE>
+2024/07/25 18:19:17 [INFO]: PID: <2> - Crear Archivo: <archivo2.txt>

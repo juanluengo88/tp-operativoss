@@ -1,0 +1,17 @@
+2024/07/25 18:19:07 [INFO]: Starting cpu server on port: 8003
+2024/07/25 18:19:11 [INFO]: PID: 1 - FETCH - Program Counter: 0
+2024/07/25 18:19:11 [INFO]: PID: 1 - Ejecutando: SET - [AX 10]
+2024/07/25 18:19:11 [INFO]: PID: 1 - FETCH - Program Counter: 1
+2024/07/25 18:19:11 [INFO]: PID: 1 - Ejecutando: SET - [BX 80]
+2024/07/25 18:19:11 [INFO]: PID: 1 - FETCH - Program Counter: 2
+2024/07/25 18:19:11 [INFO]: PID: 1 - Ejecutando: IO_FS_CREATE - [FS salida.txt]
+2024/07/25 18:19:12 [INFO]: PID: 2 - FETCH - Program Counter: 0
+2024/07/25 18:19:12 [INFO]: PID: 2 - Ejecutando: SET - [AX 10]
+2024/07/25 18:19:12 [INFO]: PID: 2 - FETCH - Program Counter: 1
+2024/07/25 18:19:12 [INFO]: PID: 2 - Ejecutando: IO_FS_CREATE - [FS archivo1.txt]
+2024/07/25 18:19:14 [INFO]: PID: 1 - FETCH - Program Counter: 3
+2024/07/25 18:19:14 [INFO]: PID: 1 - Ejecutando: IO_FS_CREATE - [FS cronologico.txt]
+2024/07/25 18:19:16 [INFO]: PID: 2 - FETCH - Program Counter: 2
+2024/07/25 18:19:16 [INFO]: PID: 2 - Ejecutando: IO_FS_CREATE - [FS archivo2.txt]
+2024/07/25 18:19:18 [INFO]: PID: 1 - FETCH - Program Counter: 4
+2024/07/25 18:19:18 [INFO]: PID: 1 - Ejecutando: IO_FS_TRUNCATE - [FS salida.txt BX]

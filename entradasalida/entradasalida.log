@@ -1,0 +1,18 @@
+2024/07/10 14:10:32 [INFO]: Starting IO server on port: 8011
+2024/07/10 14:16:09 [INFO]: PID: <6> - Operacion: <IO_STDOUT_WRITE>
+2024/07/10 14:16:09 [INFO]: Memoria devolvió este valor: 1
+2024/07/10 14:16:09 [INFO]: PID: <12> - Operacion: <IO_STDOUT_WRITE>
+2024/07/10 14:16:10 [INFO]: Memoria devolvió este valor: 1
+2024/07/10 14:16:10 [INFO]: PID: <18> - Operacion: <IO_STDOUT_WRITE>
+2024/07/10 14:16:10 [INFO]: Memoria devolvió este valor: 1
+2024/07/10 14:16:10 [INFO]: PID: <24> - Operacion: <IO_STDOUT_WRITE>
+2024/07/10 14:16:11 [INFO]: Memoria devolvió este valor: 1
+áximo 1): 
+2024/07/10 14:16:45 [INFO]: PID: 6 - Operacion: <IO_STDIN_READ>
+2024/07/10 14:16:45 [INFO]: Ingrese un valor (tamaño máximo 1): 
+2024/07/10 14:19:49 [INFO]: PID: 12 - Operacion: <IO_STDIN_READ>
+2024/07/10 14:19:49 [INFO]: Ingrese un valor (tamaño máximo 1): 
+2024/07/10 14:19:50 [INFO]: PID: 18 - Operacion: <IO_STDIN_READ>
+2024/07/10 14:19:50 [INFO]: Ingrese un valor (tamaño máximo 1): 
+2024/07/10 14:19:51 [INFO]: PID: 24 - Operacion: <IO_STDIN_READ>
+2024/07/10 14:19:51 [INFO]: Ingrese un valor (tamaño máximo 1): 
